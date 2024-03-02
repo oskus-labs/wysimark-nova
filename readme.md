@@ -20,6 +20,12 @@ To get started, follow these simple steps:
     ```bash
     composer require oskus-labs/wysimark-nova
     ```
+   
+     In Nova root directory
+     ```
+     npm --prefix='vendor/laravel/nova' ci
+     npm install 
+     ``` 
 
 2. Usage
 
