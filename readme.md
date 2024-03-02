@@ -20,11 +20,6 @@ To get started, follow these simple steps:
     ```bash
     composer require oskus-labs/wysimark-nova
     ```
-   
-     In your project run to prepare nova dependancies
-     ```
-     npm --prefix='vendor/laravel/nova' ci
-     ```
 
 2. Usage
 
