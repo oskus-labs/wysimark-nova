@@ -21,7 +21,11 @@ To get started, follow these simple steps:
     composer require oskus-labs/wysimark-nova
     ```
 
-2. That's it! You're ready to start using the Markdown editor within Laravel Nova.
+2. Usage
+
+    ```bash
+    WysimarkNova::make('Field','field'),
+    ```
 
 ## Contributing
 
