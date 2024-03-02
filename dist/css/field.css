@@ -1,12 +1,1 @@
-/* Nova Field CSS */
-.wysimark-nova {
-    background:white;
-    border-radius: 8px;
-}
-
-.wysimark-nova > div > div > div {
-    border-top-right-radius: 8px;
-    border-top-left-radius: 8px;
-}
-
-
+.wysimark-nova{background:#fff;border-radius:8px}.wysimark-nova>div>div>div{border-top-left-radius:8px;border-top-right-radius:8px}
